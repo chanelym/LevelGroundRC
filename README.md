@@ -9,17 +9,17 @@ Level Ground is a static website built using HTML and CSS for a nonprofit organi
 https://levelgroundrc.netlify.app/
 
 ## Features
-Navigation Menu: A simple navigation bar featuring links to classes, hiring opportunities, and donations./
+Navigation Menu: A simple navigation bar featuring links to classes, hiring opportunities, and donations.
 
-Homepage: A landing page featuring the organization's mission, background imagery, and an introduction to its youth development programs./
+Homepage: A landing page featuring the organization's mission, background imagery, and an introduction to its youth development programs.
 
-Gym Classes: A section encouraging visitors to explore available mixed martial arts classes./
+Gym Classes: A section encouraging visitors to explore available mixed martial arts classes.
 
-Hire Us: A section highlighting opportunities to bring Level Ground programs to other locations or organizations./
+Hire Us: A section highlighting opportunities to bring Level Ground programs to other locations or organizations.
 
-Volunteer Opportunities: A dedicated section encouraging visitors to get involved and support the organization's mission./
+Volunteer Opportunities: A dedicated section encouraging visitors to get involved and support the organization's mission.
 
-Donation Section: Provides visitors with information about contributing to the organization./
+Donation Section: Provides visitors with information about contributing to the organization.
 
 Footer: Includes social media links, contact information, and additional navigation options.
 
