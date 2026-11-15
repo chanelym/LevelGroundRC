@@ -2,7 +2,11 @@
 
 Level Ground is a static website built using HTML and CSS for a nonprofit organization that helps urban youth develop confidence, discipline, and resilience through mixed martial arts. The website highlights the organization's mission of helping young people apply skills learned through martial arts to their education and future careers. Visitors can explore information about gym classes, learn about opportunities to bring Level Ground programs to their communities, and discover ways to support the organization through volunteering and donations.
 
-**Live Website:** https://levelgroundrc.netlify.app/
+<img width="1792" height="913" alt="LevelGround" src="https://github.com/user-attachments/assets/251ff1e1-3209-4445-894d-bb6d0d213377" />
+
+
+## Deployed Site 
+https://levelgroundrc.netlify.app/
 
 ## Features
 Navigation Menu: A simple navigation bar featuring links to classes, hiring opportunities, and donations./
